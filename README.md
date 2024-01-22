@@ -65,7 +65,7 @@ fork: `<your_username>/duckietown-lx`
 
 Then clone your new repository, replacing your GitHub username in the command below,
 
-    git clone -b mooc2022 git@github.com:<your_username>/duckietown-lx
+    git clone -b mooc2022 git@github.com:ianwongg/duckietown-lx
 
 ## Step 4 - Set up the remote
 
